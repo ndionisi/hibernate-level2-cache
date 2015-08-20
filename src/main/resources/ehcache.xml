@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<ehcache updateCheck="false">
+    <defaultCache/>
+    <cache name="com.github.ndionisi.domain.AddressNonStrictReadWrite" maxElementsInMemory="100" timeToLiveSeconds="60" eternal="false"/>
+</ehcache>
