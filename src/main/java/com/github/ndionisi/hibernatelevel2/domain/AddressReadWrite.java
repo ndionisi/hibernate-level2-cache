@@ -1,4 +1,4 @@
-package com.github.ndionisi.domain;
+package com.github.ndionisi.hibernatelevel2.domain;
 
 import org.hibernate.annotations.Cache;
 import org.hibernate.annotations.CacheConcurrencyStrategy;

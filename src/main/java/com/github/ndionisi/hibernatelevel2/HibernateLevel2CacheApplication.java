@@ -1,4 +1,4 @@
-package com.github.ndionisi;
+package com.github.ndionisi.hibernatelevel2;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.EnableAutoConfiguration;

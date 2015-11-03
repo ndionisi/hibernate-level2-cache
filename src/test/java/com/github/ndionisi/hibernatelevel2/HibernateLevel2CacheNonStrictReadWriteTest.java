@@ -1,6 +1,6 @@
-package com.github.ndionisi;
+package com.github.ndionisi.hibernatelevel2;
 
-import com.github.ndionisi.domain.AddressNonStrictReadWrite;
+import com.github.ndionisi.hibernatelevel2.domain.AddressNonStrictReadWrite;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

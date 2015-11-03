@@ -1,4 +1,4 @@
-package com.github.ndionisi.configuration;
+package com.github.ndionisi.hibernatelevel2.configuration;
 
 import org.springframework.context.annotation.Configuration;
 import org.springframework.context.annotation.PropertySource;

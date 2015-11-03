@@ -1,6 +1,7 @@
-package com.github.ndionisi;
+package com.github.ndionisi.hibernatelevel2;
 
-import com.github.ndionisi.domain.AddressReadWrite;
+import com.github.ndionisi.hibernatelevel2.HibernateLevel2CacheApplication;
+import com.github.ndionisi.hibernatelevel2.domain.AddressReadWrite;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
